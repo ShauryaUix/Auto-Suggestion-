@@ -1,0 +1,30 @@
+.suggestions-wrapper {
+  position: relative;
+  top: 210px;
+  left: 450px;
+
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+
+  height: 100px;
+  width: 380px;
+}
+
+.logo {
+  height: 40px;
+  width: 40px;
+}
+
+.content-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+
+  text-decoration: none;
+  color: black;
+}
+
+.content-wrapper:hover {
+  background: rgb(128, 128, 128, 0.1);
+}

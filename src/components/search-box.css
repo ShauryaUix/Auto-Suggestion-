@@ -1,0 +1,19 @@
+.search-input {
+  height: 40px;
+  width: 400px;
+}
+
+.search-wrapper {
+  display: flex;
+  justify-content: center;
+
+  position: relative;
+  top: 200px;
+}
+
+.search-icon {
+  position: relative;
+  right: 40px;
+  top: 8px;
+  cursor: pointer;
+}
